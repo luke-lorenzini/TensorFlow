@@ -22,6 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Learn and Use\Basic_Classification.py" />
+    <Compile Include="Learn and Use\Regression.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Learn and Use\Text_Classification.py">
       <SubType>Code</SubType>
     </Compile>
