@@ -1,4 +1,4 @@
-# https://www.tensorflow.org/tutorials/keras/basic_classification
+#https://www.tensorflow.org/tutorials/keras/basic_classification
 
 # TensorFlow and tf.keras
 import tensorflow as tf

@@ -259,3 +259,7 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/TensorFlow-Walkthrough/training_1
+/TensorFlow-Walkthrough/training_2
+/TensorFlow-Walkthrough/checkpoints
+*.h5

@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>68f9d242-0c1b-4b26-87f0-1600e3de4532</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Learn and Use\Text_Classification.py</StartupFile>
+    <StartupFile>Learn and Use\Save_Restore.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Learn and Use\Basic_Classification.py" />
+    <Compile Include="Learn and Use\overfit_underfit.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Learn and Use\Regression.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Learn and Use\Save_Restore.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Learn and Use\Text_Classification.py">
